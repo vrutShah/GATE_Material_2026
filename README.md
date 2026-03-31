@@ -1,4 +1,4 @@
-# 🚀 GATE CSE & Data Science Free Resources Hub
+# 🚀 GATE CSE Free Resources Hub
 
 **A comprehensive, curated one-stop hub combining local PDFs/notes, Telegram communities, YouTube playlists, official videos, and more for effective GATE preparation without extra cost!** ⭐
 
